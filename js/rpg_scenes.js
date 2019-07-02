@@ -2693,7 +2693,7 @@ Scene_Gameover.prototype.gotoTitle = function() {
 //
 // The scene class for facebook login failure.
 
-function Scene_LoginError() {
+/*function Scene_LoginError() {
     this.initialize.apply(this, arguments);
 }
 
@@ -2715,21 +2715,6 @@ Scene_LoginError.prototype.start = function() {
 };
 
 Scene_LoginError.prototype.update = function() {
-    if (this.isActive() && !this.isBusy() && this.isTriggered()) {
-        FB.login(function(response) {
-            if (response.authResponse) {
-                console.log('Welcome!  Fetching your information.... ');
-                FB.api('/me', function(response) {
-                    console.log('Good to see you, ' + response.name + '.');
-                    DataManager.fb_response(response);
-                    SceneManager.run(Scene_Boot);
-                });
-            } else {
-                console.log('User cancelled login or did not fully authorize.');
-                SceneManager.run(Scene_LoginError);
-            }
-        });
-    }
     Scene_Base.prototype.update.call(this);
 };
 
@@ -2751,4 +2736,4 @@ Scene_LoginError.prototype.createBackground = function() {
 
 Scene_LoginError.prototype.isTriggered = function() {
     return Input.isTriggered('ok') || TouchInput.isTriggered();
-};
+};*/
