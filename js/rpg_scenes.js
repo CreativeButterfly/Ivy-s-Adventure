@@ -467,9 +467,11 @@ Scene_Title.prototype.terminate = function() {
 
 Scene_Title.prototype.createBackground = function() {
     this._backSprite1 = new Sprite(ImageManager.loadTitle1($dataSystem.title1Name));
-    this._backSprite2 = new Sprite(ImageManager.loadTitle2($dataSystem.title2Name));
+    this._backSprite2 = new Sprite(ImageManager.loadTitle2("ivy-title"));
+    this._backSprite3 = new Sprite(ImageManager.loadTitle2($dataSystem.title2Name));
     this.addChild(this._backSprite1);
     this.addChild(this._backSprite2);
+    this.addChild(this._backSprite3);
 };
 
 Scene_Title.prototype.createForeground = function() {
