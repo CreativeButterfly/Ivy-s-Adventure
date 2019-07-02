@@ -29,10 +29,5 @@ FB.login(function(response) {
 
 //for testing
 window.onload = function() {
-    FB.init({
-        appId            : '895953750764901',
-        autoLogAppEvents : true,
-        xfbml            : true,
-        version          : 'v3.3'
-    });
+            SceneManager.run(Scene_Boot);
 };
