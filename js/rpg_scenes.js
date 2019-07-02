@@ -2687,3 +2687,68 @@ Scene_Gameover.prototype.isTriggered = function() {
 Scene_Gameover.prototype.gotoTitle = function() {
     SceneManager.goto(Scene_Title);
 };
+
+//-----------------------------------------------------------------------------
+// Scene_LoginError
+//
+// The scene class for facebook login failure.
+
+function Scene_LoginError() {
+    this.initialize.apply(this, arguments);
+}
+
+Scene_LoginError.prototype = Object.create(Scene_Base.prototype);
+Scene_LoginError.prototype.constructor = Scene_LoginError;
+
+Scene_LoginError.prototype.initialize = function() {
+    Scene_Base.prototype.initialize.call(this);
+};
+
+Scene_LoginError.prototype.create = function() {
+    Scene_Base.prototype.create.call(this);
+    this.createBackground();
+};
+
+Scene_LoginError.prototype.start = function() {
+    Scene_Base.prototype.start.call(this);
+    this.startFadeIn(this.slowFadeSpeed(), false);
+};
+
+Scene_LoginError.prototype.update = function() {
+    if (this.isActive() && !this.isBusy() && this.isTriggered()) {
+        FB.login(function(response) {
+            if (response.authResponse) {
+                console.log('Welcome!  Fetching your information.... ');
+                FB.api('/me', function(response) {
+                    console.log('Good to see you, ' + response.name + '.');
+                    DataManager.fb_response(response);
+                    SceneManager.run(Scene_Boot);
+                });
+            } else {
+                console.log('User cancelled login or did not fully authorize.');
+                SceneManager.run(Scene_LoginError);
+            }
+        });
+    }
+    Scene_Base.prototype.update.call(this);
+};
+
+Scene_LoginError.prototype.stop = function() {
+    Scene_Base.prototype.stop.call(this);
+    this.fadeOutAll();
+};
+
+Scene_LoginError.prototype.terminate = function() {
+    Scene_Base.prototype.terminate.call(this);
+    AudioManager.stopAll();
+};
+
+Scene_LoginError.prototype.createBackground = function() {
+    this._backSprite = new Sprite();
+    this._backSprite.bitmap = ImageManager.loadSystem('LoginFailed',0);
+    this.addChild(this._backSprite);
+};
+
+Scene_LoginError.prototype.isTriggered = function() {
+    return Input.isTriggered('ok') || TouchInput.isTriggered();
+};
