@@ -4,7 +4,7 @@
 
 PluginManager.setup($plugins);
 
-window.fbAsyncInit = function() {
+/*window.fbAsyncInit = function() {
     FB.init({
         appId            : '895953750764901',
         autoLogAppEvents : true,
@@ -25,7 +25,7 @@ FB.login(function(response) {
         console.log('User cancelled login or did not fully authorize.');
         SceneManager.run(Scene_LoginError);
     }
-});
+});*/
 
 //for testing
 window.onload = function() {
