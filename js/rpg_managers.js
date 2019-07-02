@@ -40,7 +40,6 @@ var $gameTroop        = null;
 var $gameMap          = null;
 var $gamePlayer       = null;
 var $testEvent        = null;
-//var $facebookResponse = null;
 
 DataManager._globalId       = 'RPGMV';
 DataManager._lastAccessedId = 1;
@@ -93,10 +92,6 @@ DataManager.loadDataFile = function(name, src) {
     window[name] = null;
     xhr.send();
 };
-
-/*DataManager.fb_response(response) {
-    $facebookResponse = response;
-}*/
 
 DataManager.isDatabaseLoaded = function() {
     this.checkError();
