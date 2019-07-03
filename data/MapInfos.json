@@ -1,5 +1,5 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":779,"scrollY":459},
-{"id":2,"expanded":false,"name":"World Map","order":2,"parentId":1,"scrollX":906,"scrollY":358}
+{"id":1,"expanded":true,"name":"DEBUG","order":1,"parentId":0,"scrollX":786.8571428571428,"scrollY":516},
+{"id":2,"expanded":true,"name":"World Map","order":2,"parentId":0,"scrollX":773.1428571428571,"scrollY":502.2857142857143}
 ]
