@@ -1,0 +1,5 @@
+*.bak
+~*
+.kdev4/
+*.tmp
+*.old
