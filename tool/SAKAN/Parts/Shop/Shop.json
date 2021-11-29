@@ -1,0 +1,1652 @@
+{
+  "category": "Shop",
+  "parts": [
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 96,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 0
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 48,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 144,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        6,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        6,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 48
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 0,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 48,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        11,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        11,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        11,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        11,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        13,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 96
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        13,
+        12,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        14,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        14,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        14,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        14,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        15,
+        9,
+        16
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 144
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        15,
+        9,
+        16
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        17,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        17,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        18,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        18,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 192
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        15,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        19,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        19,
+        9,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        20,
+        21,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        20,
+        21,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        20,
+        21,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        20,
+        21,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        20,
+        21,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 240
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        22,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        23,
+        24,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        18,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        28,
+        27,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        30,
+        27,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 288
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        31
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        32,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        32,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        34,
+        33,
+        31
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        35,
+        33,
+        31
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        28,
+        27,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        36
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 336
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        30,
+        27,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        37,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        38,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        38,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        34,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        30,
+        27,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 384
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        26,
+        27,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        39,
+        24,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 48,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        40,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        41,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        41,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        41,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        42,
+        9,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 432
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        43,
+        9,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        44,
+        33,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 480
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        43,
+        9,
+        36
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        31
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 528
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        46,
+        9,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        29
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 192,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 576
+        }
+      ],
+      "file": "Shop.png",
+      "tags": [
+        0,
+        45,
+        9,
+        3
+      ]
+    }
+  ],
+  "tags": [
+    "001 All",
+    "Shelf",
+    "Combo Shelf",
+    "009 Brown",
+    "Display Case",
+    "014 Silver",
+    "Basket",
+    "002 Red",
+    "Dress Form",
+    "Decorations",
+    "010 White",
+    "Register",
+    "Mechanical",
+    "Sewing Machine",
+    "Shopping Cart",
+    "Fabric",
+    "003 Pink",
+    "Bag",
+    "Signage",
+    "Vending Machine",
+    "Ice Cream",
+    "Sweets",
+    "Shoes",
+    "Cup",
+    "Kitchen",
+    "007 Yellow",
+    "Boots",
+    "Clothing",
+    "Sneakers",
+    "005 Blue",
+    "High-heels",
+    "006 Green",
+    "Pistol",
+    "Weapons",
+    "Hand Grenade",
+    "Helmet",
+    "004 Purple",
+    "Knife",
+    "Gun",
+    "Teapot",
+    "Menu",
+    "Flower",
+    "Notepad",
+    "Picture",
+    "Sword",
+    "Book",
+    "Shield"
+  ]
+}

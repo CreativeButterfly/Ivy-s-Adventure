@@ -1,0 +1,1109 @@
+{
+  "category": "Exterior",
+  "parts": [
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 0
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        8
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        5,
+        2,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        12,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        12,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 48
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        13,
+        2,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        8
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        18,
+        16,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        19,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 96
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        8
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        8
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 144
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        20,
+        21,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        20,
+        21,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        20,
+        21,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        20,
+        21,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        22,
+        21,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        22,
+        21,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        23,
+        21,
+        24
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 192
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        25,
+        21,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        15,
+        16,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        17,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        26,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        22,
+        21,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        27,
+        21,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 240
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        27,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 0,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        19,
+        16,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 48,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        19,
+        16,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 96,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        28,
+        29,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 144,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        28,
+        29,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 192,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 240,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 288
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 336
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 384
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        20,
+        21,
+        14
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 96,
+          "y": 384
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        28,
+        29,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 192,
+          "y": 384
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        24
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 240,
+          "y": 384
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        24
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 384
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        24
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 96,
+          "y": 432
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        28,
+        29,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 432
+        }
+      ],
+      "file": "Outside.png",
+      "tags": [
+        0,
+        30,
+        29,
+        24
+      ]
+    }
+  ],
+  "tags": [
+    "001 All",
+    "Stone",
+    "Nature",
+    "012 Gray",
+    "009 Brown",
+    "Crystal",
+    "006 Green",
+    "002 Red",
+    "004 Purple",
+    "005 Blue",
+    "007 Yellow",
+    "003 Pink",
+    "Rock",
+    "Cobweb",
+    "010 White",
+    "Flower",
+    "Vegetation",
+    "Leaf",
+    "Bamboo Shoot",
+    "Tree",
+    "Flower Vase",
+    "Gardening",
+    "Flower Pot",
+    "Watering Pot",
+    "014 Silver",
+    "Shovel",
+    "Beehive",
+    "Bird Nest",
+    "Boat",
+    "Vehicle",
+    "Car"
+  ]
+}

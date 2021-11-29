@@ -1,0 +1,47 @@
+{
+  "category": "Buildings",
+  "parts": [
+    {
+      "animation": [
+        {
+          "height": 144,
+          "width": 144,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "file": "Architecture.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 144,
+          "width": 144,
+          "x": 144,
+          "y": 0
+        }
+      ],
+      "file": "Architecture.png",
+      "tags": [
+        0,
+        4,
+        2,
+        5
+      ]
+    }
+  ],
+  "tags": [
+    "001 All",
+    "Roof Tile",
+    "Roof",
+    "009 Brown",
+    "Iron",
+    "006 Green"
+  ]
+}

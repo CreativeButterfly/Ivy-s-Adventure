@@ -1,0 +1,248 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" id="main">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Event Types</title>
+	<link rel="stylesheet" href="../inc/css/style.min.css" />
+	<script type="text/javascript" src="../inc/js/lib/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="../inc/js/common.js"></script>
+</head>
+<body>
+
+	<div class="main">
+
+		<h1 class="main__title--h1 main__title--h1--v01">Event Types</h1>
+		<ul class="breadcrumb">
+			<li><a href="01.html">Scene Builder</a></li>
+			<li>&gt;</li>
+			<li>Event Types</li>
+		</ul>
+
+		<p>Various events can be created in Scene Builder.<br />
+			* Essentially all events are compatible with MV.</p>
+
+			<div class="main__section" id="p01">
+				<h2 class="main__title--h2">Show Picture Event</h2>
+				<p>The event lengths of Show Picture Events can be set, with the lowest setting at one frame. These are collected as MV picture related events, and can be moved or have their hues change over time.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img01.png" width="482" height="789" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Picture</h3>
+				<p>Settings for the image displayed.</p>
+				<dl class="main__dl">
+					<dt>Number</dt>
+					<dd>
+						The picture's number. The higher the number, the higher it is placed when stacking. When two picture numbers are the same, the one in the lower row will take priority.
+					</dd>
+					<dt>Image</dt>
+					<dd>
+						Select the picture to display.
+					</dd>
+				</dl>
+				<h3 class="main__title--h3">Start Position</h3>
+				<p>This setting is for the initial display position of the picture.</p>
+				<dl class="main__dl">
+					<dt>Origin</dt>
+					<dd>
+						Select the center location for when a picture is transformed or rotated.
+					</dd>
+					<dt>X: Y: Width: Height:</dt>
+					<dd>
+						Set the picture's position and size.
+					</dd>
+					<dt>Rotation Speed</dt>
+					<dd>
+						Set the rate for the picture's rotation.
+					</dd>
+				</dl>
+				<h3 class="main__title--h3">Combination</h3>
+				<p>Set picture's start time combination.</p>
+				<dl class="main__dl">
+					<dt>Opacity</dt>
+					<dd>
+						Configure the opacity of the picture.
+					</dd>
+					<dt>Blend Mode</dt>
+					<dd>
+						Specify the combination method for overlapping pictures.
+					</dd>
+				</dl>
+				<h3 class="main__title--h3">End Position</h3>
+				<p>Set the position of the picture's display at its ending time.</p>
+				<dl class="main__dl">
+					<dt>X: Y: Width: Height:</dt>
+					<dd>
+						Set the picture's position and size.
+					</dd>
+				</dl>
+
+				<h3 class="main__title--h3">End Blend</h3>
+				<p>Set the combination method for the picture's display at its ending time.</p>
+				<dl class="main__dl">
+					<dt>Opacity</dt>
+					<dd>
+						Configure the opacity of the picture.
+					</dd>
+				</dl>
+
+				<h3 class="main__title--h3">Color Tone</h3>
+				<p>Set the color tone of the picture's display at its ending time.</p>
+
+
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p02">
+				<h2 class="main__title--h2">Show Text Event</h2>
+				<p>The length of a Show Text Event cannot be set. Also, you cannot display more than one text item during the same frame. In the case that more than one is set to the same frame, the lower one will take priority.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img02.png" width="498" height="345" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Message</h3>
+				<dl class="main__dl">
+					<dt>Face</dt>
+					<dd>
+						Set the face image to be displayed within the text window.
+					</dd>
+					<dt>Text</dt>
+					<dd>
+						Input the text to be displayed during the event. More than four lines of text will be continued in a subsequent event.
+					</dd>
+					<dt>Background</dt>
+					<dd>
+						Set the window's background.
+					</dd>
+					<dt>Window Position</dt>
+					<dd>
+						Set the window's position.
+					</dd>
+				</dl>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p03">
+				<h2 class="main__title--h2">Show Scrolling Text Event</h2>
+				<p>The length of a Show Scrolling Text Event cannot be set. Also, you cannot display more than one text item during the same frame. In the event that more than one is set to the same frame, the text on the lower row will take priority. All control characters can be used.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img03.png" width="498" height="287" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Scrolling Text</h3>
+				<dl class="main__dl">
+					<dt>Text</dt>
+					<dd>
+						Input the text to be scrolled over display.
+					</dd>
+					<dt>Speed</dt>
+					<dd>
+						Set the scroll speed.
+					</dd>
+					<dt>No Fast Forwarding</dt>
+					<dd>
+						If this is checked, keys cannot be used to fast forward through the scrolling text.
+					</dd>
+				</dl>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p04">
+				<h2 class="main__title--h2">Fade Screen Event</h2>
+				<p>Set up a Fade Event. The length of a Fade Screen Event is fixed at 24 frames. It is necessary to perform a Fade Out before performing a Fade In.
+				Fade Type.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img04.png" width="498" height="104" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Fade Type</h3>
+				<dl class="main__dl">
+					<dt>Fade Type</dt>
+					<dd>
+						Set if the selected event is a Fade Out or a Fade In.
+					</dd>
+				</dl>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p05">
+				<h2 class="main__title--h2">Screen Event</h2>
+				<p>Add an event that has an effect on a picture. Select from the two types: Flash or Shake.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img05.png" width="498" height="318" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Flash Color</h3>
+				　<p>Checking this will cause a flash effect to occur. The tint and strength can be set.</p>
+				<h3 class="main__title--h3">Shake</h3>
+				　<p>Checking this will cause a shake event to occur. The strength and speed can be set.</p>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p06">
+				<h2 class="main__title--h2">Audio Event</h2>
+				<p>Set up an Audio Event. The length of an Audio Event cannot be set. Also, multiple Audio Events cannot occur at the same time.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img06.png" width="498" height="102" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Audio</h3>
+				<dl class="main__dl">
+					<dt>Audio Type</dt>
+					<dd>
+						Select the type of audio.
+					</dd>
+					<dt>Audio</dt>
+						Select the sound source file.
+					<dd>
+				</dl>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p07">
+				<h2 class="main__title--h2">Fadeout Audio Event</h2>
+				<p>Add an Audio Fade-Out Effect. The fade-out time is set by the length of the frame.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img07.png" width="498" height="102" alt="" />
+				</div>
+
+				<h3 class="main__title--h3">Audio Type</h3>
+				<dl class="main__dl">
+					<dt>Audio Type</dt>
+					<dd>
+						Specify the type of the fade-out audio.
+					</dd>
+				</dl>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p08">
+				<h2 class="main__title--h2">Marker</h2>
+				<p>Set a marker on the timeline. Annotations can be added by clicking on a marker.</p>
+
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img09.png" width="498" height="191" alt="" />
+				</div>
+			</div><!-- /main__section -->
+
+
+			<div class="main__section" id="p09">
+				<h2 class="main__title--h2">Preset</h2>
+				<p>A Preset is scene data that has been put together beforehand. When a Preset Scene uses images or audio materials, the files will be copied and overwritten into the project folder.</p>
+				<div class="al-c mb20px">
+					<img src="../inc/img/01_04_img10.png" width="446" height="518" alt="" />
+				</div>
+			</div><!-- /main__section -->
+
+
+	</div><!-- /main -->
+
+</body>
+</html>

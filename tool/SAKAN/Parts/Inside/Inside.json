@@ -1,0 +1,1391 @@
+{
+  "category": "Interior",
+  "parts": [
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 48,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 96,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 144,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 192,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 240,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        8,
+        2,
+        6
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 0
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 48
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 48
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 96
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        12
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 0,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 48,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 96,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 144,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 192,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 240,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 288,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 48,
+          "x": 336,
+          "y": 144
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        13,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        16
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 240
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 288
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 336
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 336
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 192,
+          "y": 336
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 336
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 384
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 432
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 432
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        7
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 192,
+          "y": 432
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 432
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        15,
+        14,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 528
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 528
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 192,
+          "y": 528
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 288,
+          "y": 528
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 624
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 624
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        17,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 192,
+          "y": 624
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 192,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 240,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 288,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 336,
+          "y": 720
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 48,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 96,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 144,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        18,
+        2,
+        9
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 192,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 768
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        12
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 48,
+          "x": 0,
+          "y": 816
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        20,
+        2,
+        21
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 96,
+          "y": 816
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        22
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 192,
+          "y": 816
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        11
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 48,
+          "width": 96,
+          "x": 288,
+          "y": 816
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 864
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        10
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 864
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        5
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 192,
+          "y": 864
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        23
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 288,
+          "y": 864
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        4
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 0,
+          "y": 960
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        12
+      ]
+    },
+    {
+      "animation": [
+        {
+          "height": 96,
+          "width": 96,
+          "x": 96,
+          "y": 960
+        }
+      ],
+      "file": "Inside.png",
+      "tags": [
+        0,
+        19,
+        2,
+        12
+      ]
+    }
+  ],
+  "tags": [
+    "001 All",
+    "Window",
+    "Building",
+    "011 Black",
+    "005 Blue",
+    "006 Green",
+    "014 Silver",
+    "007 Yellow",
+    "Entrance",
+    "002 Red",
+    "009 Brown",
+    "010 White",
+    "012 Gray",
+    "Curtain",
+    "Furniture",
+    "Rug",
+    "008 Orange",
+    "Eaves",
+    "Stairs",
+    "Wall",
+    "Floor",
+    "004 Purple",
+    "013 Gold",
+    "003 Pink"
+  ]
+}

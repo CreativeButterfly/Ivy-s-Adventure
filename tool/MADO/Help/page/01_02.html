@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" id="main">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>How to Start Creating Windows</title>
+	<link rel="stylesheet" href="../inc/css/style.min.css" />
+	<script type="text/javascript" src="../inc/js/lib/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="../inc/js/common.js"></script>
+</head>
+<body>
+
+	<div class="main">
+
+		<h1 class="main__title--h1 main__title--h1--v01"> How to Start Creating Windows</h1>
+		<ul class="breadcrumb">
+			<li><a href="01.html">Window Builder</a></li>
+			<li>&gt;</li>
+			<li> How to Start Creating Windows</li>
+		</ul>
+
+		<div class="main__section">
+			<h2 class="main__title--h2">Specify MV Project</h2>
+			<p>An MV project needs to be open before creating a window using this software. Click [File] → [Open MV Project], and specify a [Game.rpgproject] file in the MV game folder.</p>
+			<div class="al-c mb20px">
+				<img src="../inc/img/01_02_img01.png" alt="" width="409" height="156" />
+			</div>
+		</div><!-- /main__section -->
+
+
+
+		<div class="main__section">
+			<h2 class="main__title--h2"> How to Start Creating Windows</h2>
+			<dl class="main__dl">
+				<dt>(1) Select a Scene</dt>
+				<dd>
+					Choose "Dialogue", "Status", "Battle" or "Other" from the Scene Tab.<br />
+					See [<a href="01_03_01.html" target="frame_main">Scene Selection</a>] for how to select a scene.
+				</dd>
+				<dt>(2) Select Parts</dt>
+				<dd>
+					Choose the "Background", "Frame" and "Corner" images from the Parts Tab.<br />
+					By using Theme Selection, you can change all parts at once.<br />
+					 See [<a href="01_03_02.html" target="frame_main">画像の選択</a>] for how to select an image.
+				</dd>
+				<dt>(3) Export Window</dt>
+				<dd>
+					Export the Window created to the selected MV Project.<br />
+					If any the parts for the [Dialogue], [Status], [Battle], and [Other] scenes are not set, there will be an error during exporting.<br />
+					There will also be an error exporting if the folder selected does not contain the MV Project file [Game.rpgproject].<br />
+					See [<a href="01_03_03.html" target="frame_main">ウィンドウの書き出し</a>] for how to export the window.
+				</dd>
+				<dt>(4) Apply the Window Created in MV</dt>
+				<dd>
+					Enable [AltWindowFrame] in [Tools] > [Plugin Management] to apply the window created to the MV Project.
+					<div class="al-c mb20px">
+						<img src="../inc/img/01_02_img02.png" alt="" width="792" height="631" />
+					</div>
+					* See MV Help for Plugin Management details.
+				</dd>
+			</dl>
+		</div><!-- /main__section -->
+
+	</div><!-- /main -->
+
+</body>
+</html>
