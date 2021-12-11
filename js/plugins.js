@@ -12,5 +12,6 @@ var $plugins =
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
 {"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
 {"name":"atb_core","status":true,"description":"To be an easy, simple and user-friendly, yet powerful atb system\r\n            Serves as the core plugin implementing all atb system essentials","parameters":{"battle_system_code":"atb","base_fill_time":"5","turn_unit_code":"sec","max_turn_unit":"5","wait_cond_code":"full","atb_fill_code":"fill","max_atb_val":"100","atb_rate_code":"update_avg_agi","atb_start_code":"agi","atb_reset_code":"clear","max_linked_input_actors":"-1","no_prior_actor":"false","show_atb_bars":"true","actor_name_w":"123","actor_icon_ox":"6","hp_bar_ox":"6","hp_bar_w":"87","mp_bar_ox":"6","mp_bar_w":"87","tp_bar_ox":"6","tp_bar_w":"87","atb_bar_ox":"6","atb_bar_w":"87","atb_c1":"7","atb_c2":"8","atb_overlay_c1":"19","atb_overlay_c2":"26","atb_bar_text":"AP"}},
-{"name":"AutoTileConverter","status":true,"description":"","parameters":{}}
+{"name":"AutoTileConverter","status":true,"description":"","parameters":{}},
+{"name":"YED_Tiled","status":true,"description":"v1.10 Plugin supports Tiled Map Editor maps with some additional\r\nfeatures.","parameters":{"Z - Player":"3","Z - Below Player":"1","Z - Above Player":"5","Half-tile movement":"false","Priority Tiles Limit":"256","Map Level Variable":"0"}}
 ];

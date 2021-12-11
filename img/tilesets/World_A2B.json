@@ -1,0 +1,12 @@
+{ "columns":24,
+ "image":"World_A2B.png",
+ "imageheight":864,
+ "imagewidth":1152,
+ "margin":0,
+ "name":"World A5",
+ "spacing":0,
+ "tilecount":432,
+ "tileheight":48,
+ "tilewidth":48,
+ "type":"tileset"
+}
